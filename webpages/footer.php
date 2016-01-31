@@ -1,6 +1,6 @@
 <div class="container-fluid navbar navbar-inverse navbar-fixed-bottom">
     <div class="row">
-        <div class="col-xs-12 col-md-4"></div>
+        <div class="col-xs-12 col-md-5"></div>
         <div class="col-xs-12 col-md-4">
             <ul class="nav navbar-nav">
                 <li>
@@ -8,6 +8,6 @@
                 </li>
             </ul>
         </div>
-        <div class="col-xs-12 col-md-4"></div>
+        <div class="col-xs-12 col-md-3"></div>
     </div>
 </div>

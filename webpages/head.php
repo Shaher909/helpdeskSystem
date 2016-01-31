@@ -1,8 +1,12 @@
 <?php 
 	global	$page_title; 
 ?>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+	<meta charset="utf-8">
+	<meta name="Technical Assistant Team" content="HelpDesk System">
+
 	<title><?php echo $page_title; ?></title>
 	<!-- Browser Icon -->
 	<link rel="icon" href="../img/ta_Icon.ico" type="image/gif"> 
