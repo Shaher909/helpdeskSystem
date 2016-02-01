@@ -15,7 +15,7 @@
 			                <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
 		                </form>
 		            </div>
-		            <a class="text-center new-account">Please Contact Admin Department for Login Issue</a>
+		            <a class="text-center new-account">For Login Issue, please Contact Admin Department </a>
 		        </div>
 		    </div>
 		</div>
